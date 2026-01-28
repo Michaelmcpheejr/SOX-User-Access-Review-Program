@@ -1,0 +1,3 @@
+User,Application Needed,Role,Privileged (Y or N),Risk Rating,Action Required,Business Justification or Notes,Ticket Number or Remediation Ticket,Reviewer,Review Date,Status
+Ashley Carter,SAP S4 Finance PROD,FI Config Admin,Y,High,Remove,"User moved from Finance IT to HR, no longer needs finance configuration access.",INC-34219,John Lopez,2026-03-31,Removed
+Daniel Moore,NetSuite AP,AP Clerk,N,Medium,None,"Required to enter and process vendor invoices for AP team.",,Sarah Young,2026-03-31,Certified
