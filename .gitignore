@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Office temp files
+~$*.docx
+~$*.xlsx
+*.tmp
+
+# Python or tooling caches (if you use them later)
+__pycache__/
+*.pyc
+
+# Local environment files
+.env
+
+# Optional: ignore large raw evidence exports
+# evidence/
