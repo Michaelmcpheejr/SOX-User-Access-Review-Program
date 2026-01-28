@@ -1,0 +1,39 @@
+Row by row:
+
+Row 1: Ashley Carter
+Application Needed: SAP S4 Finance PROD
+Role: FI Config Admin
+Privileged: Y
+Risk Rating: High
+Action Required: Remove
+Business Justification or Notes:
+(User moved from Finance IT to HR, no longer needs finance configuration access.)
+Ticket Number or Remediation Ticket: INC-34219
+Reviewer: John Lopez (SAP Finance owner)
+Review Date: 2026-03-31
+Status: Removed
+
+What This Excatly Means:
+- This is a privileged, high risk finance configuration role.
+- The user changed jobs, so access is no longer appropriate.
+- The application owner reviewed it, decided it should be removed, and a ticket was created.
+- The status shows the removal was completed.
+
+Row 2: Daniel Moore
+Application Needed: NetSuite AP
+Role: AP Clerk
+Privileged: N
+Risk Rating: Medium
+Action Required: None
+Business Justification or Notes:
+(Required to enter and process vendor invoices for AP team.)
+Ticket Number: empty
+Reviewer: Sarah Young (AP Manager)
+Review Date: 2026-03-31
+Status: Certified
+
+What This Exactly Means:
+- This is a business user with normal AP duties.
+- Access matches the job.
+- The owner reviewed and certified the access.
+- No remediation needed, which is why there is no ticket.
