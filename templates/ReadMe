@@ -1,0 +1,14 @@
+### Sample Access Review Tracker Entries
+
+Below is a small example of how the Access Review Tracker is used:
+
+- The first row shows a privileged finance configuration admin in SAP S4. During the review, the application owner determined the user had changed roles and no longer needed this level of access. The access was flagged as High risk, Action Required was set to Remove, a remediation ticket (INC-34219) was opened, and the Status was updated to Removed once the change was completed.
+
+- The second row shows a standard Accounts Payable user in NetSuite. The AP Manager confirmed that the AP Clerk role is appropriate for the user’s job. Action Required is None and the Status is Certified, since no change was needed.
+
+Excatly What this Tracker Captures:
+- Who has access to what application and role
+- Whether the access is privileged and how risky it is
+- What decision was made during the review
+- Who reviewed it and when
+- How remediation is tracked through tickets and final Status
