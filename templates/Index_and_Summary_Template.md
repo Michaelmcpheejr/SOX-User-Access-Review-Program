@@ -8,8 +8,8 @@ Date prepared: ________________________
 
 - Azure Entra ID  
 - M365 admin roles  
-- ____________________  
-- ____________________  
+- ____________________  (add SOX relevant app here)  
+- ____________________  (add another app here if needed)
 
 ## Evidence Included
 
